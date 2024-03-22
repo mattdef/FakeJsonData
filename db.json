@@ -1,34 +1,34 @@
 {
-  "article": [
+  "articles": [
     {
       "id": 1,
       "reference": "BAAR01",
       "designation": "Bague Argent",
-      "price":372
+      "price": 372
     },
     {
       "id": 2,
       "reference": "BAOR01",
       "designation": "Bague Or et pierres",
-      "price":588
+      "price": 588
     },
     {
       "id": 3,
       "reference": "BRAAR10",
       "designation": "Bracelet, anneaux striés",
-      "price":552
+      "price": 552
     },
     {
       "id": 4,
       "reference": "CHAOR42",
       "designation": "Chaînes mailles fines",
-      "price":235.2
+      "price": 235
     },
     {
       "id": 5,
       "reference": "CHORFA",
       "designation": "Chaîne forçat Or",
-      "price":1071
+      "price": 1071
     }
   ],
   "profile": {
